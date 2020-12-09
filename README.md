@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sedong-Choi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sedong-Choi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Wemo Project [link](http://52.79.214.36:8080/wemo/)<br>
 ### HackerRank [link](https://www.hackerrank.com/bulssajo00)<br>
